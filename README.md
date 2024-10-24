@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/f282355b-0772-4ff3-8269-02e88f021c9d)
 
 
-** 🔥🔥🔥 Flame Transcript: Script de Transcrição para Detectar Cortes de Lives. 🔥🔥🔥**
+🔥🔥🔥 **Flame Transcript: Script de Transcrição para Detectar Cortes de Lives.** 🔥🔥🔥
 
 Necessário ter conhecimento básico de Terminal (cmd) para executar, visto que o Script não tem interface gráfica, não tenho mais interesse em atualizar o código do Script então a divulgação é livre, essa documentação README, serve para executar os scripts a fim de identificar cortes de lives, vídeos, onde determinado termo, frase foi dita. O script é útil principalmente para resgatar lives antigas ou gigantescas e captar momentos específicos que ocorreram. 
 
