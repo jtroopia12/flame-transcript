@@ -15,7 +15,7 @@ Necessário ter conhecimento básico de Terminal (cmd) para executar, visto que 
 
 📖 **Motivação**
 
-Clipadores são um dos pilares do FlameWar, apesar de recentemente o tal ofício ter sido desmerecido, por conta da atitude de alguns dos clipadores, bem como a banalização do passado por parte de diversos participantes, porém manter a memória do flame é extremamente importante, principalmente por se tratar de uma bolha volátil, onde por muitas vezes as pessoas negam o que falaram ou mudam as narrativas conforme a treta do momento, clipar não se encaixa em crime nenhum, desde que não seja utilizado para monetizar em cima do conteúdo de outro.
+Clipadores são um dos pilares do FlameWar, apesar de recentemente o tal ofício ter sido desmerecido, bem como a banalização do passado por parte de diversos participantes, porém manter a memória do flame é extremamente importante, principalmente por se tratar de uma bolha volátil, onde por muitas vezes as pessoas negam o que falaram ou mudam as narrativas conforme a treta do momento, clipar não se encaixa em crime nenhum, desde que não seja utilizado para monetizar em cima do conteúdo de outro.
 
 **Importante:** O dono do conteúdo, possuí os aparatos e suporte do Youtube para a remoção de cortes, porém não é capacitado em proteger seus vídeos e lives das “transcrições auto-geradas.” Pelo próprio Youtube. 
 
